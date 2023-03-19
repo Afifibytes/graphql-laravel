@@ -4,7 +4,7 @@ This is a very tiny project, to use a GraphQL client with Laravel.
 Please, make sure that you have docker on your machine before running the project.
 You will just need to run `composer install` and then `./vendor/bin/sail up` and you will find the working app under `http://localhost`.
 
-Note: that you will need to create your own `.env` file, and replace `GRAPHQL_ENDPOINT` and `GRAPHQL_CREDENTIALS` as needed ;)
+Note: that you will need to create your own `.env` file, and replace `GRAPHQL_ENDPOINT` and `GRAPHQL_CREDENTIALS`, you can copy `.env.example` and change as needed ;)
 
 The `GRAPHQL_CREDENTIALS` variable accepting the `Bearer` token directly, so you don't need to change so much.
 
