@@ -16,6 +16,6 @@ This project is not depending on any data store (like MySQL/Redis), they just ca
 
 This picture represents the requested ER diagram (not related specifically to this code).
 
-![](../../Desktop/Screenshot 2023-03-19 at 11.27.24 AM.png)
+<img width="741" alt="Screenshot 2023-03-19 at 11 27 24 AM" src="https://user-images.githubusercontent.com/20791641/226166092-ac756b6b-9b1b-403c-8bd7-f55fb133d5de.png">
 
 Please, let me know if you have any comments, always welcome.
