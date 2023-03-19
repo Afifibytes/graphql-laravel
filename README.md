@@ -14,4 +14,8 @@ https://github.com/bendeckdavid/graphql-client
 
 This project is not depending on any data store (like MySQL/Redis), they just came with laravel on the `docker-compose` file but not used in the project, so every refresh on the browser you would expect a new request to the `GraphQLServer`, this is not optimal, but this is the requested task in the meantime.
 
+This picture represents the requested ER diagram (not related specifically to this code).
+
+![](../../Desktop/Screenshot 2023-03-19 at 11.27.24 AM.png)
+
 Please, let me know if you have any comments, always welcome.
